@@ -1,8 +1,11 @@
-# Premved Dhote
+<div align="center">
+
+# **Premved Dhote**  
 ## Full Stack Developer | Problem Solver | Tech Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/pr3mm?label=Follow&style=for-the-badge)](https://github.com/pr3mm)
 
+</div>
 
 ### 👨‍💻 About Me
 
