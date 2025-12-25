@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Developer** from India with extensive experience i
 - 🌱 **Learning:** Cloud technologies, microservices, and cutting-edge development practices
 - 💼 **Experience:** Full-stack development with focus on performance and scalability
 - 💬 **Ask Me About:** JavaScript, React, Node.js, system design, or any software development topics
-- 🌐 **Portfolio:** [premveddhote.me](https://premveddhote.me)
+- 🌐 **Portfolio:** [premveddhote.me](https://premveddhote.me) , [cli.premveddhote.me](https://cli.premveddhote.me) 
 - ⚡ **Fun Fact:** I've successfully kept a plant alive for over a year - nurturing growth in both nature and code!
 
 ---
