@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Hello! I'm Premved Dhote** 👋  
-## Full Stack Developer | Problem Solver | Tech Enthusiast
+## Developer | Problem Solver | Tech Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://premveddhote.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premveddhote/)
@@ -58,30 +58,6 @@ I'm a passionate **Full Stack Developer** from India with extensive experience i
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
----
-
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pr3mm&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Premved Dhote's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr3mm&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Premved Dhote's Top Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr3mm&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Premved Dhote's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pr3mm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Premved Dhote's Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pr3mm&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="Premved Dhote's GitHub Trophies" />
-</div>
 
 ---
 
