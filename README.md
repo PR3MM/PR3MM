@@ -3,7 +3,7 @@
 # **Hello! I'm Premved Dhote** 👋  
 ## Developer | Problem Solver | Tech Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://premveddhote.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.dev&logoColor=white)](https://premveddhote.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premveddhote/)
 [![GitHub followers](https://img.shields.io/github/followers/pr3mm?label=Follow&style=for-the-badge)](https://github.com/pr3mm)
 [![Profile Views](https://komarev.com/ghpvc/?username=pr3mm&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/pr3mm)
@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Developer** from India with extensive experience i
 - 🌱 **Learning:** Cloud technologies, microservices, and cutting-edge development practices
 - 💼 **Experience:** Full-stack development with focus on performance and scalability
 - 💬 **Ask Me About:** JavaScript, React, Node.js, system design, or any software development topics
-- 🌐 **Portfolio:** [premveddhote.me](https://premveddhote.me) , [cli.premveddhote.me](https://cli.premveddhote.me) 
+- 🌐 **Portfolio:** [premveddhote.dev](https://premveddhote.dev) , [cli.premveddhote.dev](https://cli.premveddhote.dev) 
 - ⚡ **Fun Fact:** I've successfully kept a plant alive for over a year - nurturing growth in both nature and code!
 
 ---
@@ -67,7 +67,7 @@ I'm always eager to collaborate on innovative projects and discuss the latest in
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://premveddhote.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=About.dev&logoColor=white)](https://premveddhote.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premveddhote/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premveddhote@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr3mm)
